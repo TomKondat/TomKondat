@@ -8,7 +8,7 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-- 🎓 I’m a Software Developer, B.S.c in Computer Science <br>
+- 🎓 I’m a Software Developer, B.Sc in Computer Science <br>
 
 - 🔭 I’m seeking a full-time position as a Software Developer <br>
 
