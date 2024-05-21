@@ -12,8 +12,6 @@
 
 - 🔭 I’m seeking a full-time position as a Software Developer <br>
 
-- 💪 I’m a quick learner, creative and a great team player <br>
-
 - 👨‍💻 All of my projects are available at [https://tom-portfolio-xsnf.onrender.com/](https://tom-portfolio-xsnf.onrender.com/)
 
 - 📫 How to reach me: <a href="mailto:Tomkondat5@gmail.com">Tomkondat5@gmail.com</a>
