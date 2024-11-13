@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="animated" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFzdDF4cGdnOWkwNDIwdjExdnh3bnM2Y3hjMjJoZjhiNmFmN2oyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vjbtYKWPCotaPZz40o/giphy.webp" alt="animated" width="400" height="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Tom</h1>
@@ -12,9 +12,7 @@
 
 - 🎓 B.Sc. in Computer Science and graduate of Elevation's Fullstack Bootcamp <br>
 
-- 💼 All of my projects are available at [https://tom-portfolio-xsnf.onrender.com/](https://tom-portfolio-xsnf.onrender.com/)
-
-- 📫 How to reach me: <a href="mailto:tomkondat5@gmail.com">tomkondat5@gmail.com</a>
+- 💼 All of my projects are available in my [Portfolio](https://tom-portfolio-xsnf.onrender.com/)
 
 </p>
 
@@ -71,8 +69,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tom-kondat/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/tom-kondat/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+  <a href="mailto:tomkondat5@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="38" width="40" />
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomkondat&show_icons=true&locale=en&layout=compact" alt="tomkondat" /></p>
